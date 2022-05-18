@@ -1,5 +1,8 @@
 # 2022 REEES Think Tank Digital Humanities Resources
 
+Susan Grunewald
+sgrunewald@lsu.edu
+
 This document is a series of resources for the 2022 [Howard University REEES Think Tank](https://www.reeesthinktank.com/) to advance diversity and inclusion in Russian, East European, and Eurasian Studies (REEES). This document provides some brief background on Digital Humanities (DH) methods and links to some major tools and tutorials for them. It also includes a list of open access online resources for REEES. This is not meant to be a comprehensive guide to either, but merely a starting point. It also includes some examples of projects using these methods to serve as inspiration for what types of results can be achieved.
 
 ## DH Overview
