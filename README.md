@@ -74,6 +74,8 @@ Timelines can also be effectively joined with other forms of digital analysis. O
 
 Network analysis is a set of techniques that uses networks and graph theory to study relationships between actors and the social structures that arise from these relationships. Network analysis can be very difficult to master but also very rewarding. One of the most commonly used programs for network analysis is [Gephi](https://gephi.org/). Gephi offers both [written and video tutorials](https://gephi.org/users/).
 
+See [*Six Degrees of Francis Bacon*](http://www.sixdegreesoffrancisbacon.com/) for an example of historical network analysis.
+
 ## DH Tools for Publishing
 
 As the GIS section above noted, you can use the [ArcGIS StoryMaps](https://storymaps.arcgis.com/) platform to build interactive multimedia web projects. You can also use [TimelineJS](https://timeline.knightlab.com/) to build and share interactive timelines.
