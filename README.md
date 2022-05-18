@@ -66,7 +66,7 @@ The following list includes books, articles, and existing projects of interest d
 
 [Tour of the Pühtitsa Icon of the Assumption of the Virgin Mary in 1907 Story Map](https://www.balticorthodoxy.com/icon)
 
-Note: much of the information presented in this GIS section was already compiled by the author of this file for the *Peripheral Histories?* blog and it's [Digital Spatial Resources Page](https://www.peripheralhistories.co.uk/digital-spatial).
+Note: much of the information presented in this GIS section was already compiled by the author of this file for the *Peripheral Histories?* blog and its [Digital Spatial Resources Page](https://www.peripheralhistories.co.uk/digital-spatial).
 
 ### Text Analysis
 
