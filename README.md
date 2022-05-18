@@ -54,7 +54,7 @@ Note: much of the information presented in this GIS section was already compiled
 
 ### Text Analysis
 
-Text analysis, sometimes also referred to as text mining, is the process of automatically extracting information from a body of text. Text analysis is generally concerned with the content of a large body of texts, known as the corpus. There are many different tools for text analysis, some are web interfaces, some are desktop programs, and others are code scripts that use programming languages such as R or Python. A person may use these different tools for different studies of a body of texts such as for frequency analysis, sentiment analysis, or pattern recognition. [*Digital Dostoevsky*](https://digitaldostoevsky.com/) is an example of a text analysis project for the REEES field. 
+Text analysis, sometimes also referred to as text mining, is the process of automatically extracting information from a body of text. Text analysis is generally concerned with the content of a large body of texts, known as the corpus. There are many different tools for text analysis, some are web interfaces, some are desktop programs, and others are code scripts that use programming languages such as R or Python. A person may use these different tools for different studies of a body of texts such as for frequency analysis, sentiment analysis, or pattern recognition. [Digital Dostoevsky](https://digitaldostoevsky.com/) is an example of a text analysis project for the REEES field. 
 
 A great simple way to get started with text analysis is the free website [Voyant](https://voyant-tools.org/). Voyant has its own comprehensive [tutorial](https://voyant-tools.org/docs/#!/guide/start) to get you up and running analyzing texts with different study methods. Voyant also works in multiple languages, which is very helpful for REEES.
 
@@ -68,13 +68,13 @@ One of the best parts about text analysis is that it can be very easy to build d
 
 Timelines can both be used as a research and publishing tool. They are especially useful for historical projects that rely heavily on explaining and emphasizing the chronology of events. The best simple tool for making a strong and shareable timeline is [TimelineJS](https://timeline.knightlab.com/). Getting started is as easy as following the steps on [this page](https://timeline.knightlab.com/#make).
 
-Timelines can also be effectively joined with other forms of digital analysis. One great example of a cross between a timeline and text analysis is the [*Beyond the Ant Brotherhood*](https://www.colloquy.us:8443/Tolstoy/#home) project, which seeks to understand what events, people, and writings influenced Leo Tolstoy. 
+Timelines can also be effectively joined with other forms of digital analysis. One great example of a cross between a timeline and text analysis is the [Beyond the Ant Brotherhood](https://www.colloquy.us:8443/Tolstoy/#home) project, which seeks to understand what events, people, and writings influenced Leo Tolstoy. 
 
 ### Network Analysis
 
 Network analysis is a set of techniques that uses networks and graph theory to study relationships between actors and the social structures that arise from these relationships. Network analysis can be very difficult to master but also very rewarding. One of the most commonly used programs for network analysis is [Gephi](https://gephi.org/). Gephi offers both [written and video tutorials](https://gephi.org/users/).
 
-See [*Six Degrees of Francis Bacon*](http://www.sixdegreesoffrancisbacon.com/) for an example of historical network analysis.
+See [Six Degrees of Francis Bacon](http://www.sixdegreesoffrancisbacon.com/) for an example of historical network analysis.
 
 ## DH Tools for Publishing
 
@@ -92,4 +92,4 @@ Another option for collaborative and interactive projects is [Canva](https://www
 
 Often, your two best bets for getting help with Digital Humanities tools, methods, and publication are Google and your institution's library. Simple Google searches such as "GIS tutorial" will yield helpful results. There are often plenty of trouble shooting websites for whatever error message you might get with software as well.
 
-These days, many libraries have digital scholarship departments or librarians. The best way to get started is to search "digital humanities" or "digital scholarship" plus your university's name. Howard University has [*Digital Howard*](https://dh.howard.edu/about.html) for example. The contact listed there will be a very helpful resource in terms of finding experts who can help you with particular tools or methods if they do not know a particular tool or method themselves. Libraries also often host training workshops in DH research and publishing methods. 
+These days, many libraries have digital scholarship departments or librarians. The best way to get started is to search "digital humanities" or "digital scholarship" plus your university's name. Howard University has [Digital Howard](https://dh.howard.edu/about.html) for example. The contact listed there will be a very helpful resource in terms of finding experts who can help you with particular tools or methods if they do not know a particular tool or method themselves. Libraries also often host training workshops in DH research and publishing methods. 
