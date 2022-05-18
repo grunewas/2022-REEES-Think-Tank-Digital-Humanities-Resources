@@ -20,51 +20,32 @@ There is also a free, open source alternative to ArcGIS Pro that works almost as
 
 Users can generate their own data for use with GIS software. In other cases, they can download some ready developed files for use in the software. Some helpful free data sources for REEES are: 
 
-[Historical shapefiles](https://icr.ethz.ch/data/cshapes/)
-
-[Heidelberg University shapefile for 1926 USSR census](https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi:10.11588/data/10064)
-
-[Electronic Repository of Russian Historical Statistics](https://datasets.iisg.amsterdam/dataverse/RISTAT)
-
-[GeoPortOst: Thematic and Hidden Maps of Eastern and Southeastern Europe](http://geoportost.ios-regensburg.de/en/)
-
-[Memorial](https://www.memo.ru/ru-ru/collections/)
-
-[Germans from Russia Settlement Locations](https://www.germansfromrussiasettlementlocations.org/p/maps.html) 
+- [Historical shapefiles](https://icr.ethz.ch/data/cshapes/)
+- [Heidelberg University shapefile for 1926 USSR census](https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi:10.11588/data/10064)
+- [Electronic Repository of Russian Historical Statistics](https://datasets.iisg.amsterdam/dataverse/RISTAT)
+- [GeoPortOst: Thematic and Hidden Maps of Eastern and Southeastern Europe](http://geoportost.ios-regensburg.de/en/)
+- [Memorial](https://www.memo.ru/ru-ru/collections/)
+- [Germans from Russia Settlement Locations](https://www.germansfromrussiasettlementlocations.org/p/maps.html) 
 
 Historic maps are also excellent sources for projects in REEES. Some great collections of maps are below:
-
-[Та сторона](http://tastorona.su/)
-
-[Mapster](http://igrek.amzp.pl/)
-
-[Indiana University Bloomington Maps: Russian Military Topographic Map Collection](https://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC9619)
-
-[Runivers](https://runivers.ru/mp/)
-
-[David Rumsey Historical Map Collection](https://www.davidrumsey.com/)
+- [Та сторона](http://tastorona.su/)
+- [Mapster](http://igrek.amzp.pl/)
+- [Indiana University Bloomington Maps: Russian Military Topographic Map Collection](https://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC9619)
+- [Runivers](https://runivers.ru/mp/)
+- [David Rumsey Historical Map Collection](https://www.davidrumsey.com/)
 
 The following list includes books, articles, and existing projects of interest dealing with spatial methods either broadly or specifically for REEES:
 
-[A Baltic Pilgrimage in 1912 Story Map](https://www.balticorthodoxy.com/pilgrimage)
-
-[Copernico: History and Cultural Heritage in Eastern Europe](https://www.copernico.eu/en/start)
-
-[George Kennan’s Kamchatka Expedition Story Map](https://storymaps.arcgis.com/stories/3c68c41d6c4840e9a0a3f71b40cde221)
-
-[The Holocaust by Bullets map](http://www.yahadinunum.orgwww.yahadmap.org/#map/)
-
-[Imperiia Project](https://imperiia.scalar.fas.harvard.edu/imperiia/index)
-
-[Imperiia Project: Urban Legends](https://imperiia.omeka.fas.harvard.edu/exhibits/show/urban-legends)
-
-[Knowles, Anne Kelly. 2014. Geographies of the Holocaust](https://www.google.com/books/edition/Geographies_of_the_Holocaust/wqFrAwAAQBAJ?hl=en&gbpv=0)
-
-[Measuring Ghettos](https://ghettos.digital/)
-
-[Soviet Air Network 1948 animated map by Seth Bernstein](https://vimeo.com/146043317)
-
-[Tour of the Pühtitsa Icon of the Assumption of the Virgin Mary in 1907 Story Map](https://www.balticorthodoxy.com/icon)
+- [A Baltic Pilgrimage in 1912 Story Map](https://www.balticorthodoxy.com/pilgrimage)
+- [Copernico: History and Cultural Heritage in Eastern Europe](https://www.copernico.eu/en/start)
+- [George Kennan’s Kamchatka Expedition Story Map](https://storymaps.arcgis.com/stories/3c68c41d6c4840e9a0a3f71b40cde221)
+- [The Holocaust by Bullets map](http://www.yahadinunum.orgwww.yahadmap.org/#map/)
+- [Imperiia Project](https://imperiia.scalar.fas.harvard.edu/imperiia/index)
+- [Imperiia Project: Urban Legends](https://imperiia.omeka.fas.harvard.edu/exhibits/show/urban-legends)
+- [Knowles, Anne Kelly. 2014. Geographies of the Holocaust](https://www.google.com/books/edition/Geographies_of_the_Holocaust/wqFrAwAAQBAJ?hl=en&gbpv=0)
+- [Measuring Ghettos](https://ghettos.digital/)
+- [Soviet Air Network 1948 animated map by Seth Bernstein](https://vimeo.com/146043317)
+- [Tour of the Pühtitsa Icon of the Assumption of the Virgin Mary in 1907 Story Map](https://www.balticorthodoxy.com/icon)
 
 Note: much of the information presented in this GIS section was already compiled by the author of this file for the *Peripheral Histories?* blog and its [Digital Spatial Resources Page](https://www.peripheralhistories.co.uk/digital-spatial).
 
