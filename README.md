@@ -8,7 +8,7 @@ What is Digital Humanities (DH)? In brief, DH is a variety of digital tools and 
 
 ## Major Different DH Methods for REEES Research
 
-There are many different DH methods but these following NUMBER are the most likely to be used by REEES projects.
+There are many different DH methods but these following four are the most likely to be used by REEES projects.
 
 ### GIS Mapping
 
